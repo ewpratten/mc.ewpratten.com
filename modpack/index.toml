@@ -25,10 +25,6 @@ file = "config/xaeroworldmap.txt"
 file = "config/zoomify.json"
 
 [[files]]
-file = "mods/adorn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 metafile = true
 
@@ -57,7 +53,7 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cc-restitched.pw.toml"
+file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
@@ -94,10 +90,6 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
 metafile = true
 
 [[files]]
