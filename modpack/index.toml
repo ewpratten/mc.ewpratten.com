@@ -29,6 +29,10 @@ file = "mods/adorn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 metafile = true
 
@@ -50,10 +54,6 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cc-restitched.pw.toml"
 metafile = true
 
 [[files]]
@@ -113,6 +113,10 @@ file = "mods/main-menu-credits.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
@@ -134,6 +138,14 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
 metafile = true
 
 [[files]]
