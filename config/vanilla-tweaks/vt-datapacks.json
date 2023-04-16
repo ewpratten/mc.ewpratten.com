@@ -1,0 +1,19 @@
+{
+    "type": "datapacks",
+    "version": "1.19",
+    "packs": {
+        "survival": [
+            "armor statues",
+            "multiplayer sleep"
+        ],
+        "items": [
+            "armored elytra",
+            "player head drops"
+        ],
+        "mobs": [
+            "more mob heads",
+            "dragon drops",
+            "double shulker shells"
+        ]
+    }
+}

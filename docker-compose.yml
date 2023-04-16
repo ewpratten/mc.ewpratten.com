@@ -1,0 +1,35 @@
+version: "3"
+
+services:
+  minecraft:
+    image: itzg/minecraft-server
+    ports:
+     - 25565:25565
+    environment:
+      VERSION: "1.19.4"
+      TYPE: QUILT
+      EULA: true
+      VANILLATWEAKS_FILE: /tmp/vanilla-tweaks/vt-datapacks.json
+      MOTD: "Evan's private minecraft server"
+      DIFFICULTY: hard
+      WHITELIST_FILE: /tmp/whitelist.json
+      OPS_FILE: /tmp/ops.json
+      MAX_PLAYERS: 10
+      SPAWN_PROTECTION: 0
+      MODE: survival
+      PVP: true
+      MEMORY: 1G
+      TZ: America/Toronto
+      USE_AIKAR_FLAGS: true
+      PACKWIZ_URL: https://mc.ewpratten.com/modpacks/server.mrpack
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      # Base minecraft mount
+      - ./minecraft-data:/data
+      # Vanilla tweaks configs
+      - ./config/vanilla-tweaks:/tmp/vanilla-tweaks
+      # ACL files
+      - ./config/whitelist.json:/tmp/whitelist.json
+      - ./config/ops.json:/tmp/ops.json
