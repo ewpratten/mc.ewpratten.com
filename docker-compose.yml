@@ -21,7 +21,8 @@ services:
       MEMORY: 1G
       TZ: America/Toronto
       USE_AIKAR_FLAGS: true
-      MODRINTH_PROJECTS: luckperms,starlight,lithium,krypton,c2me-fabric:alpha,blazeandcaves-advancements-pack
+      MODRINTH_PROJECTS: luckperms,starlight,lithium,krypton,c2me-fabric:alpha
+      DATAPACKS: "https://cdn.modrinth.com/data/VoVJ47kN/versions/QZeDC9Qo/BlazeandCave%27s%20Advancements%20Pack%201.15.4.zip"
     tty: true
     stdin_open: true
     restart: unless-stopped
