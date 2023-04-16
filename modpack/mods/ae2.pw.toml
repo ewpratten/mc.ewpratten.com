@@ -1,7 +1,0 @@
-name = "ae2"
-filename = "appliedenergistics2-fabric-14.0.0-alpha.jar"
-
-[download]
-url = "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric%2Fv14.0.0-alpha/appliedenergistics2-fabric-14.0.0-alpha.jar"
-hash-format = "sha1"
-hash = "9192be4497ec1b243ce6ab392129609dffb084d3"

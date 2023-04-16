@@ -25,7 +25,7 @@ file = "config/xaeroworldmap.txt"
 file = "config/zoomify.json"
 
 [[files]]
-file = "mods/ae2.pw.toml"
+file = "mods/adorn.pw.toml"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
+file = "mods/cc-restitched.pw.toml"
 metafile = true
 
 [[files]]
@@ -105,6 +105,10 @@ file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 metafile = true
 
@@ -138,14 +142,6 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
