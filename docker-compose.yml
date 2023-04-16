@@ -21,7 +21,7 @@ services:
       MEMORY: 1G
       TZ: America/Toronto
       USE_AIKAR_FLAGS: true
-      MODRINTH_PROJECTS: luckperms,starlight,lithium,krypton,c2me-fabric:alpha
+      MODRINTH_PROJECTS: luckperms,starlight,lithium,krypton,c2me-fabric:alpha,blazeandcaves-advancements-pack
     tty: true
     stdin_open: true
     restart: unless-stopped
