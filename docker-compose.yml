@@ -21,7 +21,7 @@ services:
       MEMORY: 1G
       TZ: America/Toronto
       USE_AIKAR_FLAGS: true
-      PACKWIZ_URL: https://mc.ewpratten.com/modpacks/server.mrpack
+      MODRINTH_PROJECTS: luckperms,starlight,lithium,krypton,c2me-fabric:alpha
     tty: true
     stdin_open: true
     restart: unless-stopped
@@ -33,3 +33,5 @@ services:
       # ACL files
       - ./config/whitelist.json:/tmp/whitelist.json
       - ./config/ops.json:/tmp/ops.json
+      # Mods that the container fails to download
+      - ./mods:/mods
