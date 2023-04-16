@@ -18,7 +18,7 @@ services:
       SPAWN_PROTECTION: 0
       MODE: survival
       PVP: true
-      MEMORY: 1G
+      MEMORY: 4G
       TZ: America/Toronto
       USE_AIKAR_FLAGS: true
       MODRINTH_PROJECTS: luckperms,starlight,lithium,krypton,c2me-fabric:alpha
