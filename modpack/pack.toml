@@ -1,0 +1,16 @@
+name = "mc.ewpratten.com client"
+author = "Evan Pratten"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.18.10"
+
+[options]
+acceptable-game-versions = ["1.19.3"]
+no-internal-hashes = true
