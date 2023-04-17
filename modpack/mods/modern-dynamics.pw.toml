@@ -1,0 +1,7 @@
+name = "modern-dynamics"
+filename = "Modern-Dynamics-local.jar"
+
+[download]
+url = "https://github.com/ewpratten/mc.ewpratten.com/raw/master/mods/Modern-Dynamics-local.jar"
+hash-format = "sha1"
+hash = "7207a7bdd021eecc50278fe5217be94f5185766b"
