@@ -21,7 +21,7 @@ services:
       MEMORY: 4G
       TZ: America/Toronto
       USE_AIKAR_FLAGS: true
-      MODRINTH_PROJECTS: luckperms,starlight,lithium,indium,krypton,c2me-fabric:alpha,mo-structures,adorn,slotlink,diggus-maximus
+      MODRINTH_PROJECTS: luckperms,starlight,lithium,indium,krypton,c2me-fabric:alpha,mo-structures,adorn,slotlink
       DATAPACKS: "https://cdn.modrinth.com/data/VoVJ47kN/versions/QZeDC9Qo/BlazeandCave%27s%20Advancements%20Pack%201.15.4.zip"
     tty: true
     stdin_open: true
