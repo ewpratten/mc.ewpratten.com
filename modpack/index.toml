@@ -29,10 +29,6 @@ file = "mods/adorn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 metafile = true
 
@@ -46,10 +42,6 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -101,19 +93,7 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mixin-conflict-helper.pw.toml"
 metafile = true
 
 [[files]]
@@ -133,19 +113,11 @@ file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-loot-tables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
+file = "mods/slotlink.pw.toml"
 metafile = true
 
 [[files]]
@@ -154,6 +126,14 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
