@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-quilt-6.3.1.jar"
+filename = "wthit-fabric-6.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/TeXkDY0M/wthit-quilt-6.3.1.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/WDkHYG9f/wthit-fabric-6.3.2.jar"
 hash-format = "sha1"
-hash = "eef56bb50a2fd818076e6d1269d1a86e92b27e78"
+hash = "b4fd68cc6a51a8b8d927bef46f28246ed46149b4"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "TeXkDY0M"
+version = "WDkHYG9f"
