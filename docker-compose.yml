@@ -9,6 +9,7 @@ services:
       VERSION: "1.19.3"
       TYPE: FABRIC
       EULA: true
+      SEED: 3961555208563117637
       VANILLATWEAKS_FILE: /tmp/vanilla-tweaks/vt-datapacks.json
       MOTD: "Evan's private minecraft server"
       DIFFICULTY: hard
@@ -21,7 +22,7 @@ services:
       MEMORY: 4G
       TZ: America/Toronto
       USE_AIKAR_FLAGS: true
-      MODRINTH_PROJECTS: luckperms,starlight,lithium,indium,krypton,c2me-fabric:alpha,mo-structures,adorn,slotlink
+      MODRINTH_PROJECTS: luckperms,starlight,lithium,indium,krypton,c2me-fabric:alpha,mo-structures,adorn,slotlink,diggus-maximus
       DATAPACKS: "https://cdn.modrinth.com/data/VoVJ47kN/versions/QZeDC9Qo/BlazeandCave%27s%20Advancements%20Pack%201.15.4.zip"
     tty: true
     stdin_open: true
