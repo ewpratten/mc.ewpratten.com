@@ -1,6 +1,6 @@
 name = "mc.ewpratten.com client"
 author = "Evan Pratten"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -12,5 +12,5 @@ minecraft = "1.19.3"
 quilt = "0.18.10"
 
 [options]
-acceptable-game-versions = ["1.19.3"]
+acceptable-game-versions = ["1.19.3", "1.19.2"]
 no-internal-hashes = true

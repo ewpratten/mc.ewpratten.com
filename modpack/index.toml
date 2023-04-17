@@ -25,7 +25,14 @@ file = "config/xaeroworldmap.txt"
 file = "config/zoomify.json"
 
 [[files]]
+file = "mods/Modern-Dynamics-local.jar"
+
+[[files]]
 file = "mods/adorn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
 metafile = true
 
 [[files]]
@@ -46,6 +53,10 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
 metafile = true
 
 [[files]]
@@ -85,6 +96,10 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 metafile = true
 
@@ -94,6 +109,10 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
 metafile = true
 
 [[files]]
