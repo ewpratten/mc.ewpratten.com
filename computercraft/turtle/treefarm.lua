@@ -34,7 +34,12 @@ while true do
     print("Redstone pulse received")
 
     -- Refuel
-    turtle.refuel()
+    local fuelLevel = turtle.getFuelLevel()
+    print("Fuel level: " .. fuelLevel)
+    if fuelLevel < 200 then
+        print("Refueling")
+        turtle.refuel(10)
+    end
 
     -- Mine trees until we encounter a chiseled stone brick block
     print("Going to mine some trees..")
