@@ -38,5 +38,5 @@ services:
       # Mods that the container fails to download
       - ./mods:/mods
       # Computercraft 
-      - ./config/computercraft-server.toml:/data/world/serverconfig/computercraft-server.toml
+      #      - ./config/computercraft-server.toml:/data/world/serverconfig/computercraft-server.toml
       # - ./computercraft/programs:
